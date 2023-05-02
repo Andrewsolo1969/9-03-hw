@@ -4,7 +4,7 @@
 
 Zabbix-server установлен на  виртуальную машину 192.168.122.104 
 
-Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.198 и debian 11 - 192.168.122.53
+Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.199 и debian 11 - 192.168.122.53
 
 ---
 
@@ -44,14 +44,14 @@ vm.memory.size [pused] - pused - 'used' память в процентах по 
 1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
 2. Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server
 
-Выполнено в задании 9-02, дополнительно добаблена вирт.машина Debian 11 = 192.168.122.53
+Выполнено в задании 9-02, дополнительно добавлена вирт.машина Debian 11 = 192.168.122.53
 
 3. Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов
 4. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera
 5. Прикрепите за каждым хостом шаблон Linux by Zabbix Agent
 6. Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
-Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.198 и debian 11 - 192.168.122.53
+Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.199 и debian 11 - 192.168.122.53
 
 ![task_2.png](https://github.com/Andrewsolo1969/9-03-hw/blob/main/img/task_2.png)
 
@@ -76,11 +76,12 @@ Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.19
 
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Templates_Task_3.png](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Templates_Task_3.png)
+![Templates_Task_3.png](https://github.com/Andrewsolo1969/9-03-hw/blob/main/img/Templates_Task_3.png)
 
 
- ![targets](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/targets.png)
+ ![199_Latest_Date.png](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/199_Latest_Date.png)
 
+ ![Debian_11_Latast_Date.png](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Debian_11_Latast_Date.png)
 
  ## Задание 4
 
