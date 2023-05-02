@@ -96,9 +96,9 @@ Zabbix-agent установлен на localhost-192.168.122.104, 192.168.122.19
 
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
- ![Dashboard3-04.png](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Dashboard3-04.png)
+ ![Dashboard3-04.png](https://github.com/Andrewsolo1969/9-03-hw/blob/main/img/Dashboard3-04.png)
 
-  ![Castom_screen.png](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Castom_screen.png)
+  ![Castom_screen.png](https://github.com/Andrewsolo1969/9-03-hw/blob/main/img/Castom_screen.png)
 
 
 
